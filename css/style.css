@@ -1,0 +1,105 @@
+@import 'https://fonts.googleapis.com/css?family=Inconsolata';
+html {
+    min-height: 100%;
+}
+
+body {
+    background-color: #ffffff;
+
+    
+}
+
+.block{
+margin: auto;
+width: 50%;
+padding: 10px;
+font-size: 2rem;
+}
+
+.paragraph {
+    font-family: Arial, 'Helvetica', sans-serif;
+    font-size: 1.5rem;
+    color: white;
+
+
+}
+.topnav {
+    background-color: rgb(19, 19, 19);
+    overflow: hidden;
+    font-family: Arial, 'Helvetica', sans-serif;
+  
+    
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  h1 {
+    font-family: Arial, 'Helvetica', sans-serif;
+    text-align: center;
+    
+    
+  }
+
+  p {
+      font-family: Arial, 'Helvetica', sans-serif;
+      text-align: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .banner {
+    width: 100%;
+    height: auto;
+  }
+  ul {
+    font-family: Arial, 'Helvetica', sans-serif;
+    padding-left: 10px
+    
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(19, 19, 19);
+    color: white;
+    text-align: center;
+}
+.foto
+{
+  width: 30%;
+  height: auto;
+  min-height: 150px;
+  min-width: 200px;
+  max-height: 300px;
+  max-width: 300px;
+  float: left;
+  border:5px solid #000000;
+  
+}
+.h2 {
+  padding-left: 2px;
+}
+.info-title {
+  font-family: Arial, 'Helvetica', sans-serif;
+  margin-left: 348px
+}
+.actiepunten {
+  font-size: 26;
+  margin-left: 348px
+}
+.leren {
+  font-size: 26;
+  margin-left: 348px;
+}
+.info-main{
+  border:1.5px solid #000000;
+}
